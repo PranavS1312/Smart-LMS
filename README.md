@@ -31,7 +31,7 @@ SmartLMS is a **scalable, AI-powered Learning Management System (LMS)** built wi
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Redux Toolkit, TypeScript, Tailwind CSS
+- **Frontend:** React.js, Redux Toolkit, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **AI Integration:** Google Gemini API
