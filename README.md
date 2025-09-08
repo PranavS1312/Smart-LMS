@@ -37,7 +37,8 @@ SmartLMS is a **scalable, AI-powered Learning Management System (LMS)** built wi
 - **AI Integration:** Google Gemini API
 - **Payments:** Razorpay
 - **Authentication:** Google OAuth
-- **Others:** REST APIs, JWT (if applicable)
+- **Others:** REST APIs, JWT
+  
 
 ---
 
